@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="绵绵">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3A2947"/>
+      <stop offset="0.55" stop-color="#241A33"/>
+      <stop offset="1" stop-color="#161020"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.38" r="0.62">
+      <stop offset="0" stop-color="#FF8FAB" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#FF8FAB" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB7CC"/>
+      <stop offset="0.5" stop-color="#FF8FAB"/>
+      <stop offset="1" stop-color="#C4B5FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#glow)"/>
+
+  <g fill="none">
+    <path d="M0,158 C200,118 400,196 600,156 C800,116 1000,196 1200,156 L1200,240 L0,240 Z" fill="#FF8FAB" opacity="0.10"/>
+    <path d="M0,182 C220,150 420,214 640,178 C860,142 1040,208 1200,178 L1200,240 L0,240 Z" fill="#B8A9FF" opacity="0.13"/>
+    <path d="M0,208 C240,182 460,228 700,202 C920,180 1060,222 1200,202 L1200,240 L0,240 Z" fill="#FF8FAB" opacity="0.20"/>
+  </g>
+
+  <text x="600" y="112" text-anchor="middle" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="10" fill="url(#pink)">绵绵</text>
+  <text x="600" y="156" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="500" letter-spacing="1.5" fill="#D9C9EA">open source · elegant code · intelligent agents</text>
+</svg>
