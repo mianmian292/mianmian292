@@ -1,7 +1,7 @@
 <!-- ✿ mianmian292 -->
 <div align="center">
 
-<img width="100%" src="assets/header.svg" alt="绵绵"/>
+<img width="100%" src="assets/header.svg?v=2" alt="绵绵"/>
 
 <br/>
 
@@ -44,5 +44,5 @@
 </div>
 
 <div align="center">
-<img width="100%" src="assets/footer.svg" alt="thanks for visiting 🌸"/>
+<img width="100%" src="assets/footer.svg?v=2" alt="thanks for visiting 🌸"/>
 </div>
