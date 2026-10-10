@@ -17,7 +17,7 @@
 
 <h3 align="center">🛠 Stack</h3>
 
-<p align="center">
+<div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
@@ -28,11 +28,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 
-</p>
+</div>
 
 <h3 align="center">📊 Stats</h3>
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/mianmian292"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mianmian292&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF8FAB&text_color=E6EDF3&icon_color=B8A9FF" alt="stats"/></a>
 <a href="https://github.com/mianmian292"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianmian292&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF8FAB&text_color=E6EDF3" alt="top langs"/></a>
@@ -41,8 +41,8 @@
 
 <a href="https://github.com/mianmian292"><img src="https://streak-stats.demolab.com?user=mianmian292&hide_border=true&background=0D1117&border=FF8FAB&stroke=FF8FAB&ring=FF8FAB&fire=B8A9FF&currStreakNum=E6EDF3&currStreakLabel=FF8FAB&sideNums=E6EDF3&sideLabels=FF8FAB&dates=8A8FA8" alt="streak"/></a>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 <img width="100%" src="assets/footer.svg" alt="thanks for visiting 🌸"/>
-</p>
+</div>
