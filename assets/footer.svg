@@ -1,23 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="thanks for visiting">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#3A2947"/>
-      <stop offset="0.55" stop-color="#241A33"/>
-      <stop offset="1" stop-color="#161020"/>
-    </linearGradient>
-    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FFB7CC"/>
-      <stop offset="0.5" stop-color="#FF8FAB"/>
-      <stop offset="1" stop-color="#C4B5FF"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1200" height="150" fill="url(#bg)"/>
-
-  <g fill="none">
-    <path d="M0,0 L1200,0 L1200,46 C1000,16 800,74 600,44 C400,14 200,72 0,42 Z" fill="#FF8FAB" opacity="0.10"/>
-    <path d="M0,0 L1200,0 L1200,30 C1040,58 860,10 640,34 C420,58 220,12 0,36 Z" fill="#B8A9FF" opacity="0.12"/>
-  </g>
-
-  <text x="600" y="102" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="1" fill="url(#pink)">thanks for visiting 🌸</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="thanks for visiting">
+  <text x="600" y="54" text-anchor="middle"
+        font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="20" font-weight="600" letter-spacing="1"
+        fill="#FF8FAB" stroke="#2A1E33" stroke-width="2.5" paint-order="stroke" stroke-linejoin="round">thanks for visiting 🌸</text>
 </svg>

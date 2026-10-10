@@ -43,4 +43,6 @@
 
 </p>
 
+<p align="center">
 <img width="100%" src="assets/footer.svg" alt="thanks for visiting 🌸"/>
+</p>
