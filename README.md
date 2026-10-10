@@ -1,7 +1,7 @@
 <!-- ✿ mianmian292 -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=190&section=header&text=Mianmian%20%C2%B7%20%E7%BB%B5%E7%BB%B5&fontSize=46&fontColor=FF8FAB&fontAlignY=40&desc=open%20source%20%C2%B7%20elegant%20code%20%C2%B7%20intelligent%20agents&descAlign=50&descAlignY=63&descSize=16&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2A1E33&height=190&section=header&text=%E7%BB%B5%E7%BB%B5&fontSize=46&fontColor=FF8FAB&fontAlignY=40&desc=open%20source%20%C2%B7%20elegant%20code%20%C2%B7%20intelligent%20agents&descAlign=50&descAlignY=63&descSize=16&animation=fadeIn" alt="header"/>
 
 <br/>
 
@@ -43,4 +43,4 @@
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer&text=thanks%20for%20visiting%20%F0%9F%8C%B8&fontSize=18&fontColor=FF8FAB&animation=fadeIn" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2A1E33&height=120&section=footer&text=thanks%20for%20visiting%20%F0%9F%8C%B8&fontSize=18&fontColor=FF8FAB&animation=fadeIn" alt="footer"/>
